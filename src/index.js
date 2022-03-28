@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 //import "bootstrap/dist/css/bootstrap.min.css";
 import App from "./App";
-import "../src/components/styles/index.scss";
 import * as serviceWorker from "./serviceWorker";
 import DataProvider from "./redux/store";
 import "./index.css";
